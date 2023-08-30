@@ -21,7 +21,7 @@
 [2328](1) DI(blocked), b.HP xx HK Legs, DR > st.MP xx HK Tensho
 [----](1) DI(blocked), b.HP xx HK Legs, DR > cr.LP xx ss.MK xx SA
 
-[2538](3) DI(blocked), b.HP xx HK Legs, DR > cr.LP xx ss.MK xx OD Tensho
+[2566](3) DI(blocked), DR > cr.HP xx HK Legs, DR > cr.mp xx HK Legs, HK Tensho
 
 [2666](5) DI(blocked), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx HK Tensho
 [----](5) DI(blocked), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx ss.MK xx SA
