@@ -274,7 +274,7 @@
 [----](0) f.HK(PC), b.HP xx HK Legs, SA {SA ender} 
 
 
-[3092](1) f.HK(PC), DR > cr.HP xx ss.MK xx HK SBK {far, oki}
+[3092](1) f.HK(PC), DR > cr.HP xx ss.MK xx HK SBK {far, oki, if close better to do meterless and DR after for oki}
 [3440](2) f.HK(PC), b.HP xx OD Hazanshu, HK Tensho
 [3923](5) f.HK(PC), b.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx OD Tensho
 
