@@ -240,6 +240,7 @@
 
 [4050](6) st.HK(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
 
+ == Super conversion ==
 
 [3520]|1| st.HK(PC) xx ss.HK ^ j.MP(2) xx SA1
 [4080]|2| st.HK(PC) xx ss.MK xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
