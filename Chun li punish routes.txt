@@ -366,7 +366,7 @@
 
  == Sideswitch from corner ==
 [2299](1) DI(PC), df.HK, LK SBK
-[----](1) DI(PC), df.HK, LK Legs, SA1/SA3 {SA ender}
+[----](1) DI(PC), df.HK, SA1/SA3 {SA ender}
 [2791](2) DI(PC), df.HK, DR > cr.LP xx HK Legs, HK Tensho
  - Doesn't work for tall characters [JP, Marisa, Dee Jay, Zangief]
  
