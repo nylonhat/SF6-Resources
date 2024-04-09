@@ -166,7 +166,7 @@
 [3329](6) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 [3302](6) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
-[3401](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
+[3485](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK {microwalk}
 [3393](6) f.MP(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
 
 
