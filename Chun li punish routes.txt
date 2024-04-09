@@ -191,7 +191,7 @@
 [2596](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho {max range}
 [2489](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
-[2790](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
+[2865](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK
 [2772](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
 
