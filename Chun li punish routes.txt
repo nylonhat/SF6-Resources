@@ -301,6 +301,8 @@
 
 [4609](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {corner, SA ender(builds 1 SA gauge), max damage route}
 
+[4642](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > st.MP, b.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {corner}
+
 
 === HK Hazanshu Punish ===
  * HK Hazanshu(PC), b.HP... >>> same route as st.MP(PC), b.HP...
