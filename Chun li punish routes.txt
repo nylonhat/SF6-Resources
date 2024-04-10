@@ -287,6 +287,7 @@
 [----](6) f.HK(PC), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx SA {corner}
 
  * For tall characters [JP, Marisa, Dee Jay, Zangief]: f.HK(PC), b.HP ... >>> f.HK(PC), st.HK ...
+[3208] f.HK(PC), st.HK xx ss.MK xx DRC, HK Tensho {side switch from corner}
 
 
 === 19F Punish: DR > b.HP Punish ===
