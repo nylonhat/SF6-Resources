@@ -28,4 +28,7 @@
 
 [----](6) DI(blocked), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx SA
 
+=== Stun Sequences ===
+cr.MK xx MK SBK, (Block OD DP), DI(PC), st.HK xx ss.MK xx CA, DR > st.MP, cr.HP xx DI, (stun), j.HP, st.HK xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1
+
 
