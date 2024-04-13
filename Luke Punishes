@@ -40,7 +40,7 @@ nj.HK, st.HK ...
 DR > b.HP {close}
 DR > st.HP/st.HK/f.HK {medium}
 DR > delayed cr.MK xx HK Legs {max}
-DR, SA3 {max}
+DR, delayed SA3 {max}
 
 *if first projectile whiffs
 jump forward, DR > b.HP 
