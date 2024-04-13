@@ -45,3 +45,6 @@ DR, delayed SA3 {max}
 *if first projectile whiffs
 jump forward, DR > b.HP 
 
+=== SA2/SA3 ===
+DR > b.HP
+
