@@ -1,3 +1,12 @@
+=== cr.HK ===
+OD Legs, cr.MK xx MK SBK {max range}
+
+=== Whirlwind Kick ===
+st.LP(PC), cr.MK ... {close only}
+
+=== Short Uppercut ===
+st.HP ...
+
 === LP FB ===
 st.LK(PC) ... {point blank only}
 
@@ -10,6 +19,45 @@ DR > b.HP ...
 === HP DP / OD DP ===
 DR > b.HP ...
 df.HK(PC) ...
+
+=== LK Tastsu ===
+MK Legs ...
+st.HK ...
+st.HP ...
+
+=== MK Tastsu ===
+DR > b.HP ... {if blocked first hit crouching}
+st.HP ... {if blocked first hit standing}
+
+=== HK Tastsu ===
+DR > b.HP ... {crouch after blocking first hit}
+
+=== OD Tastsu ===
+MK Legs ...
+st.HK ...
+
+=== LK Donkey Kick ===
+cr.MK/cr.HK {close only}
+OD Legs, cr.MK ... {mid(+8) doesn't look like it hits meaty}
+SA1/SA3 {mid}
+* if it looks like it hits meaty: not punishable (+5)
+
+=== MK Donkey Kick ===
+OD Legs, cr.MK ... {close}
+* can be spaced to be safe at near max range
+
+=== HK Donkey Kick ===
+st.LK(PC) ... {close only}
+* safe at most ranges
+
+PP, MK Legs(PC), st.MP, cr.MP xx MK SBK {max range}
+
+=== OD Donkey Kick ===
+st.HK ... {max range}
+f.HK ... {max range}
+
+=== MP Hashogeki ===
+st.LK(PC) ... {close only}
 
 === SA1 ===
 DR > b.HP ... {close}
