@@ -155,16 +155,16 @@
 
 [2949](3) f.MP(PC) xx ss.LK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho 
 [2859](3) f.MP(PC) xx ss.LK xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {oki}
-[2790](3) f.MP(PC) xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {max range}
-[2681](3) f.MP(PC) xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {oki}
+[2874](3) f.MP(PC) xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {max range}
+[2736](3) f.MP(PC) xx DRC > cr.HP xx MK SBK {oki}
 
 [3148](5) f.MP(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
 [3109](5) f.MP(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
-[3028](5) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho {max range}
-[2987](5) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
+[3112](5) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho {max range}
+[3071](5) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
-[3329](6) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[3302](6) f.MP(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[3413](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[3386](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
 [3485](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK {microwalk}
 [3393](6) f.MP(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
