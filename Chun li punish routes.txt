@@ -202,8 +202,26 @@
   
 
 === 11F Punish: cr.HP ===
- * cr.HP(PC)... >>> same route as st.HK(PC)... 
- 
+[3030](0) cr.HP(PC) xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[2890](0) cr.HP(PC) xx ss.HK ^ stomp(x2) xx HK Air Legs {max range, oki}
+[2840](0) cr.HP(PC) xx ss.MK xx MK SBK {max range}
+
+[3360](2) cr.HP(PC) xx ss.MK xx OD SBK, HK Tensho {max range}
+[3328](2) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
+
+[3609](3) cr.HP(PC) xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {max range}
+[3519](3) cr.HP(PC) xx ss.MK xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {max range, oki}
+
+[3808](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho {max range}
+[3769](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+
+[3792](5) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {>3 drive gauge}
+[3668](5) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {>3 drive gauge, oki, SA ender}
+
+[4077](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[3984](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki and SA ender}
+
+[4050](6) cr.HP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
 
 === 13F Punish: st.HP ===
  * st.HP(PC) xx ss.MK... >> same route as st.HK(PC) xx ss.MK... route
@@ -213,58 +231,43 @@
 
 
 === 14F Punish: st.HK and MK Legs ===
-[3030](0) st.HK(PC) xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+ * st.HK has extra scaling if starting a combo, use cr.HP if possible
+
 [3000](0) MK Legs(PC), st.MP, cr.MP xx MK SBK {close oki}
-[2890](0) st.HK(PC) xx ss.HK ^ stomp(x2) xx HK Air Legs {max range, oki}
-[2840](0) st.HK(PC) xx ss.MK xx MK SBK {max range}
 
 [3440](2) MK Legs(PC), st.MP, cr.MP xx OD SBK, HK Tensho
-[3360](2) st.HK(PC) xx ss.MK xx OD SBK, HK Tensho {max range}
-[3328](2) st.HK(PC) xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
 [3669](3) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[3609](3) st.HK(PC) xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {max range}
 [3602](3) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
-[3519](3) st.HK(PC) xx ss.MK xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {max range, oki}
 
 [3842](5) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
-[3808](5) st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho {max range}
 [3785](5) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
-[3769](5) st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
-
-[3792](5) st.HK(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {>3 drive gauge}
-[3668](5) st.HK(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {>3 drive gauge, oki, SA ender}
-
-[4077](6) st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[3984](6) st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki and SA ender}
-
-[4050](6) st.HK(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
 
  == Super conversion ==
 
-[3520]|1| st.HK(PC) xx ss.HK ^ j.MP(2) xx SA1
-[4080]|2| st.HK(PC) xx ss.MK xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
+[3520]|1| cr.HP(PC) xx ss.HK ^ j.MP(2) xx SA1
+[4080]|2| cr.HP(PC) xx ss.MK xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
 [5280]|3| cr.HP(PC) xx HK Legs, SA3
 
-[3710]|1| st.HK(PC) xx ss.MK xx OD SBK, SA1
-[4320]|2| st.HK(PC) xx ss.MK xx OD Legs xx SA2 ^ j.MP(2) xx HK Air Legs(5)
-[5480]|3| st.HK(PC) xx ss.MK xx OD SBK, LK Legs, SA3
+[3710]|1| cr.HP(PC) xx ss.MK xx OD SBK, SA1
+[4320]|2| cr.HP(PC) xx ss.MK xx OD Legs xx SA2 ^ j.MP(2) xx HK Air Legs(5)
+[5480]|3| cr.HP(PC) xx ss.MK xx OD SBK, LK Legs, SA3
 
 [3995]|1| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1
-[3984]|1| st.HK(PC) xx ss.MK xx DRC > st.MP, b.HP xx HK Legs, SA1
+[3984]|1| cr.HP(PC) xx ss.MK xx DRC > st.MP, b.HP xx HK Legs, SA1
 [4325]|2| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
 [5485]|3| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
 
-[4018]|1| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, SA1
+[4018]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, SA1
 [4417]|2| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD Legs xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
 [5706]|3| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, LK Legs, SA3
 
-[4489]|1| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1
-[4410]|1| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1 {>3 drive gauge}
-[4819]|2| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
-[4740]|2| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {>3 drive gauge}
-[5979]|3| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
-[5900]|3| st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {>3 drive gauge}
+[4499]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx SA1
+[4410]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1 {>3 drive gauge}
+[4819]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
+[4740]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {>3 drive gauge}
+[5979]|3| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
+[5900]|3| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {>3 drive gauge}
 
 
 
