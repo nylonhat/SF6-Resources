@@ -1,6 +1,17 @@
 ==== Chun Li Punish Routes ====
 [Damage](Drive Gauge) Combo {Extra info}
 
+=== Notation ===
+, : link
+> : chain/target combo/follow up move
+xx : cancel
+^ : jump cancel
+DR : Parry Drive Rush
+DRC : Cancel Drive Rush
+stomp: Yoso Kick(j.2MK)
+ss. : Serenity Stream (stance move)
+PC : Punish Counter
+
 
 === 4F Punish: st.LP ===
  == Close range ==
@@ -243,8 +254,8 @@
 [3842](5) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
 [3785](5) MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
- == Super conversion ==
 
+ == Super conversion ==
 [3520]|1| cr.HP(PC) xx ss.HK ^ j.MP(2) xx SA1
 [4080]|2| cr.HP(PC) xx ss.MK xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
 [5280]|3| cr.HP(PC) xx HK Legs, SA3
@@ -270,13 +281,11 @@
 [5900]|3| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {>3 drive gauge}
 
 
-
 === 16F Punish: f.HK ===
 [3240](0) f.HK(PC), b.HP xx ss.MK xx HK Tensho
 [2880](0) f.HK(PC), b.HP xx HK SBK {oki}
 [2770](0) f.HK(PC) xx ss.HK ^ stomp(x2) xx HK Air Legs {far, oki}
 [----](0) f.HK(PC), b.HP xx HK Legs, SA {SA ender} 
-
 
 [3092](1) f.HK(PC), DR > cr.HP xx ss.MK xx HK SBK {far, oki, if close better to do meterless and DR after for oki}
 [3440](2) f.HK(PC), b.HP xx OD Hazanshu, HK Tensho
@@ -313,7 +322,7 @@
  * Other routes usually better
  
 [3150](0) HK Hazanshu(PC), b.HP xx ss.LK xx MK SBK
- 
+
 
 === df.HK Punish ===
  * side switch
@@ -517,16 +526,3 @@ b.HP(PC)/cr.HP(PC)/st.MK(PC) xx DI
 ...xx DRC > st.MP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 ...xx DRC > st.MP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
-
-
-
-=== Notation ===
-, : link
-> : chain/target combo/follow up move
-xx : cancel
-^ : jump cancel
-DR : Parry Drive Rush
-DRC : Cancel Drive Rush
-stomp: Yoso Kick(j.2MK)
-ss. : Serenity Stream (stance move)
-PC : Punish Counter
