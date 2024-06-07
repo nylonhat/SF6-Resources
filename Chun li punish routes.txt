@@ -381,6 +381,7 @@
 [2960](0) DI(PC airborne), dash, st.HK xx ss.MK xx HK Tensho
 [3080](2) DI(PC airborne), dash, st.HK xx ss.MK xx OD Tensho
 [3202](3) DI(PC airborne), dash, st.HK xx ss.MK xx DRC > cr.HP xx HK Tensho
+[----](3) DI(PC airborne), dash, st.HK xx ss.MK xx DRC > cr.HP xx HK Tensho, SA1
 [3509](5) DI(PC airborne), dash, st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx OD Tensho
 [----](6) DI(PC airborne), dash, st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx SA
 
