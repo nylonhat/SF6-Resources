@@ -405,6 +405,7 @@
 ... b.HP/cr.HP xx ss.HK, stomp(x2)...
  - j.HP > j.HP, SA1/SA3/CA
  - j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
+ - xx Air SA1
  
 ... xx OD SBK, DR > cr.LP xx {usually not the best route for super}
  - LK Hazanshu xx SA3/CA
