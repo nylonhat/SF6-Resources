@@ -262,7 +262,7 @@
 [4417]|2| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD Legs xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
 [5706]|3| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, LK Legs, SA3
 
-[4499]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx SA1
+[4499]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx Air SA1
 [4410]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1 {>3 drive gauge}
 [4819]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
 [4740]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {>3 drive gauge}
