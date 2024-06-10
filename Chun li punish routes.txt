@@ -462,7 +462,7 @@ PC : Punish Counter
 [3900](2) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx MK SBK {next to corner}
 [4380](4) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx OD SBK, LK Legs, HK Tensho {next to corner}
 [----](4) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx OD SBK, jump, stomp(x2), j.HP > j.HP, SA {next to corner, SA ender}
-[4438](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx DRC > cr.HP xx HK Legs, HK Tensho {next to corner}
+[4448](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx HK Legs, jump, stomp(x2) xx Air MK Legs {next to corner}
 [4402](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {next to corner, SA ender}
 
 [3800](2) cr.HP(PC) xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/4 stage to corner}
