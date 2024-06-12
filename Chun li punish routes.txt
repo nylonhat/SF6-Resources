@@ -299,6 +299,7 @@ PC : Punish Counter
 [3400](0) f.HK(PC), f.HK xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {corner, SA1 ender}
 [3526](1) f.HK(PC), b.HP xx HK Legs, DR > st.MP xx HK Tensho {corner}
 [3772](2) f.HK(PC), DR > cr.HP xx HK Legs, DR > cr.MP xx HK Legs, HK Tensho {corner}
+[----](3) f.HK(PC), b.HP xx ss.MK xx DRC > cr.HP xx HK Tensho, SA1 {corner, SA1 ender}
 [3876](4) f.HK(PC), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx HK Tensho {corner}
 [----](6) f.HK(PC), b.HP xx HK Legs, DR > st.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx SA {corner}
 
