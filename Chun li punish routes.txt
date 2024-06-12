@@ -155,7 +155,7 @@ PC : Punish Counter
 [3690](6) cr.MP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
 
 === Wake up Drive Reversal in corner ===
-[5940](6) cr.MP(PC) xx ss.MK xx OD FB, st.LP xx OD FB, f.MP xx OD FB, cr.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
+[5970](6) cr.MP(PC) xx ss.MK xx OD FB, st.LP xx OD FB, f.MP xx OD FB, f.MP xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
 
 
 === 7F Punish: f.MP ===
