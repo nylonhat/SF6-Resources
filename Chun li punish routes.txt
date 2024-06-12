@@ -285,6 +285,8 @@ PC : Punish Counter
 
 
 === 16F Punish: f.HK ===
+ * Can substitute b.HP for df.HP in some combos (same damage) 
+
 [3240](0) f.HK(PC), b.HP xx ss.MK xx HK Tensho
 [2880](0) f.HK(PC), b.HP xx HK SBK {oki}
 [2770](0) f.HK(PC) xx ss.HK ^ stomp(x2) xx HK Air Legs {far, oki}
