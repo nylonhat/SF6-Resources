@@ -12,7 +12,7 @@ stomp: Yoso Kick(j.2MK)
 ss. : Serenity Stream (stance move)
 PC : Punish Counter
 
-
+*** TODO: Light starters need to be checked after season 2 patch changes
 === 4F Punish: st.LP ===
  == Close range ==
 [2720](0) st.LP(PC), b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
