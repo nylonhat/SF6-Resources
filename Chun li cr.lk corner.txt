@@ -1,3 +1,5 @@
+=== cr.LK starter in corner ===
 [4388] cr.LK, st.LP, st.LP xx OD FB, f.MP xx OD FB, f.MP xx OD FB, cr.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner}
   * note: st.LP, st.LP must be link and not chain
+
 [4436] cr.LK, st.LP, st.LK xx OD FB, f.MP xx OD FB, f.MP xx OD FB, cr.MK xx DRC > st.MP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner, crouch only}
