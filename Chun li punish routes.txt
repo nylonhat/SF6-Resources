@@ -418,7 +418,7 @@ PC : Punish Counter
  - LK Legs, SA3/CA
  - jump, stomp(x2), j.HP > j.HP, SA1/SA3/CA {corner}
  - jump, stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {corner}
- - jump, stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP, SA1 {corner, SA3 better if possible}
+ - jump, stomp(x2), j.HP > j.HP, SA2 ^ Air SA1 {corner, SA3 better if possible}
 
 ... b.HP/cr.HP xx ss.HK, stomp(x2)...
  - j.HP > j.HP, SA1/SA3/CA
