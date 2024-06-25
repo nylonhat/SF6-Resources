@@ -467,11 +467,13 @@ PC : Punish Counter
 
 === Corner conversion routes ===
  ... xx HK Legs, HK Tensho {next to corner}
+ ... xx HK Legs, jump, stomp(x2) xx MK Air Legs {next to corner}
  ... xx OD SBK, LK Legs, HK Tensho {1/4 stage to corner}
  ... xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/3 stage to corner}
  ... xx ss.MK xx OD FB, st.MP, cr.MP xx ... {next to corner}
  ... xx OD SBK, jump, stomp(x2), j.HP > j.HP, SA {next to corner, SA ender}
- 
+
+ == Next to corner ==
 [3130](0) cr.HP(PC) xx HK Legs, jump, stomp(x2) xx MK Air Legs {next to corner}
 [3900](2) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx MK SBK {next to corner}
 [4380](4) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx OD SBK, LK Legs, HK Tensho {next to corner}
@@ -479,11 +481,12 @@ PC : Punish Counter
 [4448](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx HK Legs, jump, stomp(x2) xx Air MK Legs {next to corner}
 [4402](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {next to corner, SA ender}
 
+ == Transition to corner / Initial hit spaced out ==
 [3800](2) cr.HP(PC) xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/4 stage to corner}
 [3711](3) cr.HP(PC) xx ss.MK xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/2 stage to corner}
 [4060](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx MK SBK {1/4 stage to corner}
 [4048](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/2 stage to corner}
-[4250](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx HK Legs, HK Tensho {1/4 stage to corner}
+[4282](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {1/4 stage to corner}
 [4070](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/2 stage to corner}
 
 
