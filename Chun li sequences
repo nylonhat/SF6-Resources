@@ -7,21 +7,21 @@
 [10053]
 
 === 2 DPs Blocked ===
-* No Super Meter, Full Drive Gauge
+* No Super Meter, 5 Drive Gauge
 [2160] st.MP, cr.MP xx MK SBK
 [4921] (Blocked DP) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1
 [3400] (Blocked DP) f.HK(PC), b.HP xx HK Legs, HK Tensho
 [10481]
 
-=== Wake up IAL when cornered ===
-* Full Super Meter, Full Drive Gauge
+=== Wake up IAL ===
+* Full Super Meter, 3 Drive Gauge
 [2910] IAL(PC), st.LP, st.MP, cr.MP xx SA2 ^ falling j.MP(1), HK SBK
 [3031] st.MP, cr.MP xx OD SBK, DR > cr.LP xx HK Legs xx HK Tensho
 [4128] st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
 [10069]
 
 === 2 Super 3 Touch ===
-* 2 Super, Full Frive Gauge
+* 2 Super, 4 Drive Gauge
 [3340] st.MP, cr.MP xx SA2 ^ falling j.MP(1), HK SBK
 [3031] st.MP, cr.MP xx OD SBK, DR > cr.LP xx HK Legs xx HK Tensho
 [3798] st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1
