@@ -157,6 +157,7 @@ PC : Punish Counter
 
 === Wake up Drive Reversal in corner ===
  * Does not work on Marisa, Blanka 
+[4024](6) cr.MP(PC) xx ss.MK xx OD FB, st.LP xx OD FB, f.MP xx OD FB, f.MP xx DRC > st.MP, b.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs
 [5970](6) cr.MP(PC) xx ss.MK xx OD FB, st.LP xx OD FB, f.MP xx OD FB, f.MP xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
 
 
