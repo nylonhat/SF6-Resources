@@ -12,55 +12,53 @@ stomp: Yoso Kick(j.2MK)
 ss. : Serenity Stream (stance move)
 PC : Punish Counter
 
-*** TODO: Light starters need to be checked after season 2 patch changes
+
 === 4F Punish: st.LP ===
  == Close range ==
-[2720](0) st.LP(PC), b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2588](0) st.LP(PC), b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki}
-[2320](0) st.LP(PC), b.HP xx ss.LK xx MK SBK {oki}
+[2400](0) st.LP(PC), b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[2260](0) st.LP(PC), b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki}
+[2070](0) st.LP(PC), b.HP xx ss.LK xx MK SBK {oki}
 
-[2900](2) st.LP(PC), b.HP xx ss.HK ^ delay j.MP(2), OD Tensho
-[2638](2) st.LP(PC), b.HP xx ss.LK xx OD SBK, LK SBK {oki}
+[2550](2) st.LP(PC), b.HP xx ss.HK ^ delay j.MP(2), OD Tensho
+[2525](2) st.LP(PC), b.HP xx ss.HK ^ j.MP(2) xx OD Air Legs {oki}
 
-[2937](3) st.LP(PC), b.HP xx ss.LK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[2864](3) st.LP(PC), b.HP xx ss.LK xx DRC > b.HP xx ss.MK xx MK SBK {oki}
+[2682](5) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
+[2625](5) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3104](5) st.LP(PC), b.HP xx ss.LK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
-[3047](5) st.LP(PC), b.HP xx ss.LK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
-
-[3270](6) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[3252](6) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[2780](6) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
+[2776](6) st.LP(PC), b.HP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
  == Mid range == 
-[1860](0) st.LP(PC), cr.MP xx MK SBK
+[1680](0) st.LP(PC), cr.MP xx MK SBK
 
-[2380](2) st.LP(PC), cr.MP xx OD SBK, HK Tensho
+[2120](2) st.LP(PC), cr.MP xx OD SBK, HK Tensho
+[1998](2) st.LP(PC), cr.MP xx OD SBK, LK SBK {oki}
 
-[2691](3) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.HK xx ^ j.MP(2) xx late HK Air Legs(5)
-[2596](3) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
+[2349](3) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.HK xx ^ j.MP(2) xx late HK Air Legs(5)
+[2282](3) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
 
-[2896](5) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
-[2857](5) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+[2522](5) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
+[2465](5) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3090](6) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[3072](6) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[2620](6) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
+[2616](6) st.LP(PC), cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
  
  == Max range ==
-[1770](0) st.LP(PC), cr.MK xx MK SBK 
-[1170](0) st.LP(PC), cr.HK {hard knockdown}
+[1600](0) st.LP(PC), cr.MK xx MK SBK 
+[1080](0) st.LP(PC), cr.HK {hard knockdown}
 
-[2280](2) st.LP(PC), cr.MK xx OD SBK, HK Tensho 
+[2040](2) st.LP(PC), cr.MK xx OD SBK, HK Tensho
+[1918](2) st.LP(PC), cr.MK xx OD SBK, LK SBK {oki}
 
-[2539](3) st.LP(PC), f.MP xx DRC > st.MP, b.HP xx ss.LK xx MK SBK
+[2291](3) st.LP(PC), f.MP xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[2224](3) st.LP(PC), f.MP xx DRC > b.HP xx ss.MK xx MK SBK {oki}
 
-[2779](5) st.LP(PC), f.MP xx DRC > st.MP, b.HP xx ss.LK xx OD SBK, HK Tensho
-[2710](5) st.LP(PC), f.MP xx DRC > st.MP, b.HP xx ss.LK xx OD SBK, LK SBK {oki}
+[2464](5) st.LP(PC), f.MP xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
+[2407](5) st.LP(PC), f.MP xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3011](6) st.LP(PC), f.MP xx DRC > st.MP, b.HP xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2982](6) st.LP(PC), f.MP xx DRC > st.MP, b.HP xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
+[2558](6) st.LP(PC), f.MP xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs
 
-[3090](6) st.LP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
-[3070](6) st.LP(PC), f.MP xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
+[2606](6) st.LP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk}
 
 
 === 5F Punish: st.MP ===
