@@ -336,6 +336,18 @@ PC : Punish Counter
  
 [3150](0) HK Hazanshu(PC), b.HP xx ss.LK xx MK SBK
 
+=== OD Hazanshu Punish ===
+[2490](2) OD Hazanshu(PC), jump, stomp(x2) xx MK Air Legs {close}
+[2400](2) OD Hazanshu(PC), HK Tensho {mid range}
+[2850](4) OD Hazanshu(PC), jump, stomp(x2) xx OD Air {close}
+[----](-) OD Hazanshu(PC), LK Legs, SA3 {close}
+[----](-) OD Hazanshu(PC), OD FB, SA1 {close}
+[----](-) OD Hazanshu(PC), SA/OD Legs/LK SBK/cr.HK {max range}
+
+[2970](2) OD Hazanshu(PC), LK Legs, jump, stomp(x2) xx MK Air {corner}
+[2640](2) OD Hazanshu(PC), LK Legs, LK Legs {+45: safe jump/meaty fireball}
+[3470](2) OD Hazanshu(PC), LK Legs, jump, stomp(x2) xx Air SA1 {corner}
+[3270](4) OD Hazanshu(PC), LK Legs, jump, stomp(x2) xx OD Air Legs {corner}
 
 === df.HK Punish ===
  * side switch
