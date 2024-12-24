@@ -1,0 +1,3 @@
+=== Level 2 Super punish in the corner ===
+ - low block until Dhalsim just releases the ball
+[5006] DI, parry(ball), b.HP xx HK Legs, DR > st.MP xx DRC xx cr.HP xx ss.MK xx DRC xx cr.HP xx ss.MK xx SA2 ^ j.HP > j.HP, land, SA1
