@@ -1,3 +1,6 @@
-=== Level 2 Super punish in the corner ===
- - low block until Dhalsim just releases the ball
-[5006] DI, parry(ball), b.HP xx HK Legs, DR > st.MP xx DRC xx cr.HP xx ss.MK xx DRC xx cr.HP xx ss.MK xx SA2 ^ j.HP > j.HP, land, SA1
+=== Light Level 2 Super punish in the corner ===
+ - Crouch block and react to the release of the ball because Dhalsim may choose to charge the fireball for longer
+ - Pay attention to where the fireball is heading
+ - Parry the incoming fireball if the Light SA2 version was used. (Otherwise do regular st.HK... route)
+ - b.HP after parry will hit when Dhalsim has fallen to his knees after DI crumple (different than usual DI PC combo route)
+[5006] DI(PC), parry(Dhalsim SA2), b.HP xx HK Legs, DR > st.MP xx DRC xx cr.HP xx ss.MK xx DRC xx cr.HP xx ss.MK xx SA2 ^ j.HP > j.HP, land, SA1
