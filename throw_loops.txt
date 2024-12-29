@@ -1,0 +1,36 @@
+=== True walk up throw loop ===
+ - Luke
+ - Manon
+ - Kimberly
+ - JP {note: dash, throw can't shimmy}
+ - Dee Jay
+ - Cammy
+ - Ryu
+ - Blanka {note: dash/leap, throw can't shimmy}
+ - Ken
+ - Zangief {neutral/d.f throw only}
+ - Dhalsim
+ - A.K.I
+ - M.Bison {note: dash, throw can't shimmy}
+ - Terry {strict 1F, note: dash, throw can't shimmy}
+
+=== True dash up throw loop ===
+ - Rashid
+ - Ed {note: charged pull can be parried}
+ - Akuma
+
+=== Dash up throw, can't shimmy ===
+ - Jaime [+4]
+ - Juri [+3]
+
+=== DR > throw, can't shimmy, can bait Reversal ===
+ - Marisa
+
+=== DR > throw, punishable with OD Tensho ===
+ - Lily
+ - Guile
+
+=== No throw loop ===
+ - E.Honda
+ - Chun Li
+
