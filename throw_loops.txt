@@ -20,8 +20,8 @@
  - Akuma
 
 === Dash up throw, can't shimmy ===
- - Jaime [+4]
- - Juri [+3]
+ - Jaime [+4] {can backdash punish throw}
+ - Juri [+3] {can backdash punish throw}
 
 === DR > throw, can't shimmy, can bait Reversal ===
  - Marisa
