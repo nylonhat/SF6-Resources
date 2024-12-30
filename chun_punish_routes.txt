@@ -122,9 +122,8 @@ PC : Punish Counter
 [1840](2) st.LK(PC) xx OD SBK, HK Tensho {charged}
 
 == todo check ==
-[2368](3) st.LK(PC) xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {charged}
-[2358](3) st.LK(PC) xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2267](3) st.LK(PC) xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {oki}
+[2089](3) st.LK(PC) xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {charged}
+[2085](3) st.LK(PC) xx DRC > b.HP xx ss.MK xx HK SBK {oki}
 
 [2596](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho	
 [2555](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
