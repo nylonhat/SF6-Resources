@@ -58,7 +58,7 @@ PC : Punish Counter
 
 [2558](6) st.LP(PC), f.MP xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs
 
-[2606](6) st.LP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk}
+[2626](6) st.LP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk}
 
 
 === 5F Punish: st.MP ===
@@ -111,8 +111,8 @@ PC : Punish Counter
 [3431](6) st.MP(PC), f.MP xx DRC > st.MP, b.HP xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 [3402](6) st.MP(PC), f.MP xx DRC > st.MP, b.HP xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
 
-[3510](6) st.MP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
-[3490](6) st.MP(PC), f.MP xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
+[3544](6) st.MP(PC), f.MP xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
+[514](6) st.MP(PC), f.MP xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
 
 
 === 5F Punish: st.LK ===
@@ -121,40 +121,37 @@ PC : Punish Counter
 
 [1840](2) st.LK(PC) xx OD SBK, HK Tensho {charged}
 
-== todo check ==
 [2089](3) st.LK(PC) xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {charged}
 [2085](3) st.LK(PC) xx DRC > b.HP xx ss.MK xx HK SBK {oki}
 
-[2596](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho	
-[2555](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+[2288](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho	
+[2249](5) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[2897](6) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2870](6) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
-
-[3071](6) st.LK(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2979](6) st.LK(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
-
+[2644](6) st.LK(PC) xx DRC > b.HP xx ss.MK xx cr.HP xx ss.MK xx HK SBK
+[----](6) st.LK(PC) xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx j.HP > j.HP, SA {SA ender}
 
 === 6F Punish: cr.MP ===
  * If close: cr.MP(PC), b.HP... >>> same route as st.MP(PC), b.HP...
  * cr.MP(PC) xx ss.MK... >>> same route as cr.HP(PC) xx ss.MK...
  
-[2480](0) cr.MP(PC) xx ss.MK xx MK SBK
+[2640](0) cr.MP(PC) xx ss.MK xx HK SBK
 
 [3000](2) cr.MP(PC) xx ss.MK xx OD SBK, HK Tensho
 [2859](2) cr.MP(PC) xx ss.MK xx OD SBK, LK SBK {oki, max range}
 
+[3313](3) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
 [3249](3) cr.MP(PC) xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho 
 [3159](3) cr.MP(PC) xx ss.MK xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {oki}
 
-[3448](5) cr.MP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
-[3409](5) cr.MP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+[3516](5) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
+[3477](5) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3642](6) cr.MP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[3624](6) cr.MP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[3872](6) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
+[3710](6) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
+[3692](6) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
-[3710](6) cr.MP(PC) xx ss.MK xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
-[3690](6) cr.MP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
+[3744](6) cr.MP(PC) xx ss.MK xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {microwalk}
+[3714](6) cr.MP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
 
 === Wake up Drive Reversal in corner ===
  * Does not work on Marisa, Blanka 
@@ -162,7 +159,7 @@ PC : Punish Counter
 [5970](6) cr.MP(PC) xx ss.MK xx OD FB, st.LP xx OD FB, f.MP xx OD FB, f.MP xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner}
 
  * Universal standard route
-[5871](6) cr.MP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner}
+[5939](6) cr.MP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner}
 
 
 === 7F Punish: f.MP ===
@@ -187,8 +184,8 @@ PC : Punish Counter
 [3413](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 [3386](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
-[3485](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK {microwalk}
-[3393](6) f.MP(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
+[3576](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK {microwalk}
+[3427](6) f.MP(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
 
 
 === 7F Punish: cr.MK ===
@@ -201,18 +198,16 @@ PC : Punish Counter
 [2280](2) cr.MK(PC) xx ss.LK xx OD SBK, HK Tensho
 [2080](2) cr.MK(PC) xx OD SBK, HK Tensho {max range, charged}
 [1730](2) cr.MK(PC) xx OD Legs > OD Legs {max range}
-	
-[2392](3) cr.MK(PC) xx ss.LK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho 
-[2384](3) cr.MK(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx MK SBK {oki}
-[2391](3) cr.MK(PC) xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {max range}
-[2296](3) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx MK SBK {max range oki}
+
+[2464](3) cr.MK(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx HK SBK {oki}	
+[2393](3) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx HK SBK {max range oki}
 
 [2624](5) cr.MK(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho 
 [2567](5) cr.MK(PC) xx ss.LK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 [2596](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho {max range}
 [2489](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
-[2865](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[2915](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 [2772](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
 
@@ -224,25 +219,24 @@ PC : Punish Counter
 
 === 11F Punish: cr.HP ===
 [3030](0) cr.HP(PC) xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
+[3000](0) cr.HP(PC) xx ss.MK xx HK SBK {max range}
 [2890](0) cr.HP(PC) xx ss.HK ^ stomp(x2) xx HK Air Legs {max range, oki}
-[2840](0) cr.HP(PC) xx ss.MK xx MK SBK {max range}
 
 [3360](2) cr.HP(PC) xx ss.MK xx OD SBK, HK Tensho {max range}
 [3328](2) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
-[3609](3) cr.HP(PC) xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho {max range}
-[3519](3) cr.HP(PC) xx ss.MK xx DRC > st.MP, b.HP xx ss.LK xx MK SBK {max range, oki}
+[3673](3) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
 
-[3808](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho {max range}
-[3769](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+[3876](5) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho {max range}
+[3837](5) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
 [3792](5) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {>2 drive gauge}
 [3668](5) cr.HP(PC) xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {>2 drive gauge, oki, SA ender}
 
-[4077](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5) {>3 drive guage}
-[3984](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki and SA ender}
+[4232](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
+[4052](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {SA ender}
 
-[4050](6) cr.HP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
+[4074](6) cr.HP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
 
 === 13F Punish: st.HP ===
  * st.HP(PC) xx ss.MK... >> same route as st.HK(PC) xx ss.MK... route
@@ -254,7 +248,7 @@ PC : Punish Counter
 === 14F Punish: st.HK and MK Legs ===
  * st.HK has extra scaling if starting a combo, use cr.HP if possible
 
-[3000](0) MK Legs(PC), st.MP, cr.MP xx MK SBK {close oki}
+[3140](0) MK Legs(PC), st.MP, cr.MP xx HK SBK {close oki}
 
 [3440](2) MK Legs(PC), st.MP, cr.MP xx OD SBK, HK Tensho
 
@@ -279,16 +273,16 @@ PC : Punish Counter
 [4325]|2| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
 [5485]|3| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
 
-[4018]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, SA1
+[4086]|1| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, SA1
 [4417]|2| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD Legs xx SA2 ^ falling j.MP, ss.MK xx HK Tensho
 [5706]|3| MK Legs(PC), st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx OD SBK, LK Legs, SA3
 
-[4499]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx Air SA1
-[4410]|1| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1 {>3 drive gauge}
-[4819]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
-[4740]|2| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {>3 drive gauge}
-[5979]|3| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
-[5900]|3| cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {>3 drive gauge}
+[4567]|1| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx Air SA1
+[4528]|1| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA1 {>3 drive gauge}
+[4887]|2| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP
+[4858]|2| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA2 ^ j.HP(whiff) > j.HP {>3 drive gauge}
+[6047]|3| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3
+[6018]|3| cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {>3 drive gauge}
 
 
 === 16F Punish: f.HK ===
@@ -317,7 +311,7 @@ PC : Punish Counter
 
 
 === 19F Punish: DR > b.HP Punish ===
-[3480](1) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx MK SBK
+[3620](1) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx HK SBK
 
 [3920](3) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx OD SBK, HK Tensho
 
@@ -377,16 +371,15 @@ PC : Punish Counter
 [3780](2) j.HP(PC), st.HK xx ss.MK xx OD SBK, HK Tensho
 [3739](2) j.HP(PC), st.HK xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3957](3) j.HP(PC), st.HK xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[3884](3) j.HP(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK {oki}
+[4022](3) j.HP(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
 
-[4124](5) j.HP(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
-[4067](5) j.HP(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
+[4182](5) j.HP(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
+[4125](5) j.HP(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[4222](6) j.HP(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[4218](6) j.HP(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender( builds 1 SA gauge)}
+[4438](6) j.HP(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
+[4276](6) j.HP(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender( builds 1 SA gauge)}
 
-[4262](6) j.HP(PC), st.HK xx ss.MK xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)} 
+[4286](6) j.HP(PC), st.HK xx ss.MK xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)} 
 
 
 === Drive Impact Punish Counter ===
@@ -396,14 +389,11 @@ PC : Punish Counter
 [3320](3) DI(PC), st.HK xx ss.MK xx OD SBK, HK Tensho
 [3269](3) DI(PC), st.HK xx ss.MK xx OD FB, st.LK xx LK SBK {oki}
 
-[3418](4) DI(PC), st.HK xx ss.MK xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
-[3392](4) DI(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx MK SBK {oki}
+[3508](4) DI(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx MK SBK {oki}
 
-[3420](5) DI(PC), st.HK xx ss.MK xx OD SBK, OD Tensho {not worth it}
+[3606](5.9) DI(PC), st.HK(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho
 
-[3556](5.9) DI(PC), st.HK(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, HK Tensho
-
-[3635](6) DI(PC), st.HK xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[3685](6) DI(PC), st.HK xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
  == Sideswitch from corner ==
 [2299](1) DI(PC), df.HK, LK SBK
@@ -488,19 +478,19 @@ PC : Punish Counter
 
  == Next to corner ==
 [3130](0) cr.HP(PC) xx HK Legs, jump, stomp(x2) xx MK Air Legs {next to corner}
-[3900](2) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx MK SBK {next to corner}
+[4000](2) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx HK SBK {next to corner}
 [4380](4) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx OD SBK, LK Legs, HK Tensho {next to corner}
 [----](4) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx OD SBK, jump, stomp(x2), j.HP > j.HP, SA {next to corner, SA ender}
-[4448](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx HK Legs, jump, stomp(x2) xx Air MK Legs {next to corner}
-[4402](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {next to corner, SA ender}
+[4472](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx HK Legs, jump, stomp(x2) xx Air MK Legs {next to corner}
+[4426](6) cr.HP(PC) xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {next to corner, SA ender}
 
  == Transition to corner / Initial hit spaced out ==
 [3800](2) cr.HP(PC) xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/4 stage to corner}
 [3711](3) cr.HP(PC) xx ss.MK xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/2 stage to corner}
-[4060](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx MK SBK {1/4 stage to corner}
-[4048](5) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/2 stage to corner}
-[4282](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {1/4 stage to corner}
-[4070](6) cr.HP(PC) xx ss.MK xx DRC > b.HP xx ss.MK xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/2 stage to corner}
+[4178](5) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx HK SBK {1/4 stage to corner}
+[4116](5) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, LK Legs, HK Tensho {1/2 stage to corner}
+[4304](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {1/4 stage to corner}
+[4138](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD SBK, DR > cr.LP xx HK Legs, HK Tensho {1/2 stage to corner}
 
 
 === Corner carry oki ===
