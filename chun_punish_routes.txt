@@ -332,6 +332,8 @@ PC : Punish Counter
  
 [3150](0) HK Hazanshu(PC), b.HP xx ss.LK xx MK SBK
 
+[3510](0) HK Hazanshu(PC), b.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {corner}
+
 === OD Hazanshu Punish ===
 [2490](2) OD Hazanshu(PC), jump, stomp(x2) xx MK Air Legs {close}
 [2400](2) OD Hazanshu(PC), HK Tensho {mid range}
