@@ -320,10 +320,11 @@ PC : Punish Counter
 [4097](4) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx OD SBK, DR > cr.LP xx ss.MK xx HK Tensho
 
 [4416](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender(builds 1 SA gauge)}
-
-[4609](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {corner, SA ender(builds 1 SA gauge), max damage route}
+[4426](6) Parry > DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > st.MP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk}
 
 [4642](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > st.MP, b.HP xx HK Legs, jump, stomp(x2) xx MK Air Legs {corner}
+
+[6604](6) DR > b.HP(PC) xx HK Hazanshu, cr.MP xx DRC > cr.HP xx ss.MK xx OD FB, st.MP, cr.MP xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP, SA3 {corner, SA ender(builds 1 SA gauge), max damage route}
 
 
 === HK Hazanshu Punish ===
