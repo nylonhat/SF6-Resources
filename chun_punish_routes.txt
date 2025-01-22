@@ -184,9 +184,8 @@ PC : Punish Counter
 [3413](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
 [3386](6) f.MP(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
 
-[3576](6) f.MP(PC) xx DRC > st.MP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK {microwalk}
-[3427](6) f.MP(PC) xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender}
-
+[3746](6) f.MP(PC) xx DRC > b.HP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK {microwalk}
+[3568](6) f.MP(PC) xx DRC > b.HP, microwalk cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk, SA ender}
 
 === 7F Punish: cr.MK ===
  * note cr.MK(PC) has more range but worse scaling than f.MP(PC)
@@ -207,9 +206,11 @@ PC : Punish Counter
 [2596](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD SBK, HK Tensho {max range}
 [2489](5) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx LK SBK {max range oki}
 
-[2915](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ j.MP(2) xx late HK Air Legs(5)
-[2772](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {oki, SA ender}
+[2952](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx HK SBK
+[2738](6) cr.MK(PC) xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {SA ender}
 
+[3032](6) cr.MK(PC) xx DRC > b.HP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx HK SBK
+[2928](6) cr.MK(PC) xx DRC > b.HP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk, SA ender}
 
 === 8F Punish: b.HP and LK Legs ===
  * b.HP(PC)... >>> same route as st.HK(PC)... {close range}
@@ -236,11 +237,16 @@ PC : Punish Counter
 [4232](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.MK xx HK SBK
 [4052](6) cr.HP(PC) xx ss.MK xx DRC > cr.HP xx ss.MK xx OD FB, st.LK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {SA ender}
 
+[4208](6) cr.HP(PC) xx ss.MK xx DRC > b.HP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk}
+[4121](6) cr.HP(PC) xx ss.MK xx DRC > b.HP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk, builds 1 SA gauge}
+
 [4074](6) cr.HP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > cr.HP xx ss.HK ^ stomp(x2) xx HK Air Legs {microwalk, oki, SA ender(builds 1 SA gauge)}
 
 === 13F Punish: st.HP ===
  * st.HP(PC) xx ss.MK... >> same route as st.HK(PC) xx ss.MK... route
  * If close: st.HP(PC), st.MP, cr.MP... >>> same route as MK Legs(PC), st.MP, cr.MP...
+
+[4001](6) st.HP(PC) xx ss.MK xx DRC > b.HP, microwalk, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk, builds 1 SA gauge}
 
 [3873](6) st.HP(PC) xx ss.MK xx DRC > st.MP, microwalk st.MP, cr.MP xx DRC > cr.HP xx ss.MK xx DRC > st.LP, b.HP xx ss.HK ^ stomp(x2), j.HP > j.HP {microwalk, builds 1 SA gauge}
 
